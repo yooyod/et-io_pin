@@ -1,5 +1,6 @@
 {
     "name": "ET-IO_Pin",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
